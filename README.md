@@ -7,6 +7,7 @@ A\B Testing is meant to test new version of someing (new design,new features,etc
 It also can be more than 2 Groups a-b-c-d but the most common on is (a-b) because its hard and not the most effective to test more than one group
 <br>
 ### How to run A-B-Testing
+
 To run an A/B test, you need to create two different versions of one piece of content, with changes to a single variable. Then, you'll show these two versions to two similarly sized audiences and analyze which one performed better over a specific period of time (long enough to make accurate conclusions about your results).
 <br>
 Explanation of what a/b testing is
