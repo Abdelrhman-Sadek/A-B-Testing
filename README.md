@@ -13,6 +13,7 @@ Explanation of what a/b testing is
 <p align="center">
   <img src="https://camo.githubusercontent.com/f1347ad3f479a18b069f735fd163e55e902292c0675261be083124521238deb9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a424b626b58657336724b5472564131662e" />
 </p>
+<br>
 ### A-B-Testing Process Steps:
 * Understanding business problem & data
 * Detect and resolve problems in the data (Missing Value, Outliers, Unexpected Value)
