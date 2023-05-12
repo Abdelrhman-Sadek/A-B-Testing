@@ -15,7 +15,7 @@ Explanation of what a/b testing is
 </p>
 
 ### A-B-Testing Process Steps:
-<br>
+
 * Understanding business problem & data
 * Detect and resolve problems in the data (Missing Value, Outliers, Unexpected Value)
 * Look summary stats and plots
