@@ -15,12 +15,4 @@ Explanation of what a/b testing is
 </p>
 
 ### A-B-Testing Process Steps:
-* Understanding business problem & data
-* Detect and resolve problems in the data (Missing Value, Outliers, Unexpected Value)
-* Look summary stats and plots
-* Apply hypothesis testing and check assumptions
-* Check Normality & Homogeneity
-* Apply tests (Shapiro, Levene Test, T-Test, Welch Test, Mann Whitney U Test)
-* Evaluate the results
-* Make inferences
-* Recommend business decision to your customer/director/ceo etc.
+
