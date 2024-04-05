@@ -1,14 +1,14 @@
 # A-B-Testing
-A\B Testing is meant to test new version of someing (new design,new features,etc) to the old version and how that effect the business to determine which performs better
+A\B Testing is meant to test a new version of something (new design, new features, etc) to the old version and how that affects the business to determine which performs better
 <p align="center">
   <img src="https://camo.githubusercontent.com/27e73176ea577f97f0fa2c925852a5171a65f5e13f4121b208250280f2aeabf5/68747470733a2f2f692e696d6775722e636f6d2f3742696573494f2e676966" />
 </p>
 <br>
-It also can be more than 2 Groups a-b-c-d but the most common on is (a-b) because its hard and not the most effective to test more than one group
+It also can be more than 2 Groups a-b-c-d but the most common one is (a-b) because it's hard and not the most effective to test more than one group
 
 ### How to run A-B-Testing
 
-To run an A/B test, you need to create two different versions of one piece of content, with changes to a single variable. Then, you'll show these two versions to two similarly sized audiences and analyze which one performed better over a specific period of time (long enough to make accurate conclusions about your results).
+To run an A/B test, you need to create two different versions of one piece of content, with changes to a single variable. Then, you'll show these two versions to two similarly sized audiences and analyze which one performed better over a specific period (long enough to make accurate conclusions about your results).
 <br>
 Explanation of what a/b testing is
 <br>
@@ -18,12 +18,12 @@ Explanation of what a/b testing is
 
 ### A-B-Testing Process Steps:
 
-1. Understanding business problem & data
+1. Understanding business problems & data
 2. Detect and resolve problems in the data (Missing Value, Outliers, Unexpected Value)
-3. Look summary stats and plots
+3. Look at summary stats and plots
 4. Apply hypothesis testing and check assumptions
 5. Check Normality & Homogeneity
 6. Apply tests (Shapiro, Levene Test, T-Test, Welch Test, Mann Whitney U Test)
 7. Evaluate the results
 8. Make inferences
-9. Recommend business decision to your customer/director/ceo etc.
+9. Recommend business decisions to your customer/director/CEO etc.
